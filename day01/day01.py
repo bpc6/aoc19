@@ -13,7 +13,7 @@ def get_total_fuel(mass: int) -> int:
 
 
 if __name__ == "__main__":
-    with open("input.txt", "r") as f:
+    with open("day01/input.txt", "r") as f:
         lines = f.readlines()
 
     total = 0
